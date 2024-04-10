@@ -1,0 +1,3476 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9351668,-36.9576961,10 174.94536399192387,-36.9737531610542,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9351699,-36.9576781,10 174.94394626665195,-36.97426688544186,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9351804,-36.9576506,10 174.94249315577974,-36.974690275099945,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9352085,-36.9575643,10 174.9443443442614,-36.974027638321246,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9352269,-36.9575086,10 174.941040386464,-36.974916132220855,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.935247,-36.9574487,10 174.9429292616187,-36.97438335859378,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9352696,-36.9573829,10 174.94146083541983,-36.9747063578247,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9353211,-36.9572369,10 174.94037384974652,-36.97479664756527,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9353512,-36.9571561,10 174.94266390846798,-36.97419577652647,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9353819,-36.9570716,10 174.94343130541463,-36.973896083057554,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9354108,-36.9569814,10 174.94382492363735,-36.973690580755346,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9354576,-36.9567992,10 174.94928562528696,-36.970999733906375,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9354795,-36.9567136,10 174.9397653441127,-36.97440416507368,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9355057,-36.9566302,10 174.93901944397368,-36.97443002318934,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9355588,-36.9564817,10 174.94360814329187,-36.97330618473887,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9355751,-36.9564226,10 174.9250303798468,-36.97233439826323,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9355848,-36.9563686,10 174.93362715894017,-36.97432175906736,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9355434,-36.9562792,10 174.92298364742203,-36.97121925058847,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9354995,-36.9562467,10 174.92198253590647,-36.97063874762033,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9354461,-36.9562107,10 174.919020113833,-36.9685003765071,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9352842,-36.9561334,10 174.91859345621205,-36.96819114038393,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9351832,-36.9560917,10 174.9170133512461,-36.966683237969704,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9348549,-36.9559612,10 174.91601928036718,-36.96577506408923,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9346139,-36.9558609,10 174.9157783050768,-36.96567476426084,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9344932,-36.9558098,10 174.91609585590837,-36.96614523571429,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9343728,-36.9557547,10 174.91691865418025,-36.9670948817819,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.934256,-36.9556933,10 174.91655790986962,-36.96678728824911,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9340336,-36.9555544,10 174.9181522347756,-36.968296649524014,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9339258,-36.9554807,10 174.9194888336775,-36.969285293457936,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9338168,-36.9554027,10 174.9187882682155,-36.96879452924457,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9335955,-36.9552468,10 174.91886054295333,-36.96884708342573,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9334782,-36.9551701,10 174.9202765028076,-36.96974927812358,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.933361,-36.955099,10 174.91693525268929,-36.967388678859315,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9331218,-36.9549738,10 174.91724055538606,-36.96771605079529,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9329962,-36.9549182,10 174.9139502972835,-36.9644667561801,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9328657,-36.9548667,10 174.91251189948784,-36.962481286462726,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9325995,-36.9547785,10 174.91334889616678,-36.964058838223266,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9324623,-36.9547416,10 174.91210853278722,-36.96235618663145,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9323248,-36.9547117,10 174.91073763976922,-36.95967721326207,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9321878,-36.9546848,10 174.91136545128978,-36.96143405050716,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9319153,-36.9546412,10 174.91055717029607,-36.96020831490784,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9317785,-36.9546248,10 174.90940786451387,-36.95619339486797,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9316429,-36.9546157,10 174.90952752265406,-36.957743090238296,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.93138,-36.9546176,10 174.9089787081713,-36.95587262325884,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9312573,-36.9546261,10 174.90881553699145,-36.95399502818792,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9311361,-36.95464,10 174.90880293325733,-36.956521689279484,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9309118,-36.9546773,10 174.95287565637054,-36.95092832764365,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9308097,-36.9547043,10 174.90852207111033,-36.95250590488372,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9307108,-36.9547353,10 174.9112659194201,-36.945722808242856,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9305592,-36.9548431,10 174.91151807151942,-36.94529147442605,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9304969,-36.9549084,10 174.91730028006825,-36.94032771828056,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9304357,-36.9549808,10 174.91541251321587,-36.94158703828251,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9303233,-36.9551416,10 174.91712663985402,-36.94056091884828,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9302864,-36.9552265,10 174.92009381812778,-36.939168513482954,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9302626,-36.9553141,10 174.9252122968413,-36.93775407979841,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9302611,-36.9554017,10 174.92908612778842,-36.93740458141357,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.930301,-36.955563,10 174.93147597468786,-36.9375658819035,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9303275,-36.9556354,10 174.93228420347057,-36.93768215204566,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9303546,-36.9556997,10 174.93270133531314,-36.93777659215117,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9304054,-36.9558136,10 174.93507318424736,-36.93818551879856,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.930435,-36.9558647,10 174.935485339492,-36.938304681428185,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9304515,-36.9559177,10 174.92771544103093,-36.93803019100841,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9304137,-36.9560344,10 174.92460297132362,-36.9386265278271,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9303962,-36.9560943,10 174.9257283986325,-36.938466219632815,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9303914,-36.9561492,10 174.92610756971035,-36.93845842580375,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9303918,-36.9562206,10 174.92999997939344,-36.93820153558108,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9303897,-36.9562394,10 174.92308033693143,-36.939199221708286,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9303878,-36.9562483,10 174.93077962074838,-36.93822923566533,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9302087,-36.9568364,10 174.92179826813143,-36.94012657577676,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9301894,-36.9569007,10 174.9214169290325,-36.94031121758355,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9301745,-36.9569528,10 174.924743068481,-36.939466194876616,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9301633,-36.9569974,10 174.92175285043731,-36.94028757622911,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9301561,-36.957082,10 174.92703150937015,-36.93923554016415,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9301627,-36.957114,10 174.92665056898048,-36.939314020858994,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9301609,-36.9571689,10 174.9247294531439,-36.93968229551347,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9300976,-36.9572625,10 174.91754259218172,-36.942321086315424,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9300674,-36.9573146,10 174.92093551805146,-36.94085051267911,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9300487,-36.9573672,10 174.9242378701263,-36.939959331736354,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9300355,-36.9574142,10 174.91949503005475,-36.94150142569035,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9300217,-36.9574683,10 174.91913683439495,-36.941705578468024,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9300187,-36.9574775,10 174.90919926670702,-36.95072459440784,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9300167,-36.9574738,10 174.92496625432017,-36.93991378619121,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9300078,-36.957489,10 174.92649565177067,-36.93968902198497,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9299931,-36.9575219,10 174.9198002124001,-36.94146391966808,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9299718,-36.9575727,10 174.92156128720995,-36.940862877845504,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9299326,-36.9577204,10 174.92336842337332,-36.940485882803515,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9299233,-36.9578034,10 174.92525539438762,-36.940175324712456,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9299262,-36.9578909,10 174.92719007048575,-36.94000339696369,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9299451,-36.9579814,10 174.92916156002758,-36.93997057259783,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9300175,-36.9581474,10 174.93506799013463,-36.94058738818513,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9300655,-36.9582212,10 174.93473343109704,-36.940593125954216,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9301258,-36.9582891,10 174.93631430454138,-36.940965271513974,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.930274,-36.9584042,10 174.94409718088917,-36.94420202622516,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9303576,-36.9584464,10 174.94897263566352,-36.9483672839419,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9304507,-36.9584798,10 174.95063261611034,-36.950577853775584,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9306482,-36.9585317,10 174.9517489639403,-36.95236601222071,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9307472,-36.9585532,10 174.95253567554218,-36.954191337673535,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9308447,-36.9585701,10 174.95272475917338,-36.95451406573248,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9310257,-36.9586112,10 174.95027259632974,-36.94932773312627,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.931097,-36.9586351,10 174.95054287177754,-36.94962261395033,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.931151,-36.9586523,10 174.95097699233594,-36.95018992852267,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9312164,-36.9586742,10 174.95172975578393,-36.95134230784215,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9312415,-36.9586876,10 174.94963456375558,-36.94834930171686,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9312598,-36.9587135,10 174.936310327496,-36.94115348986084,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9312771,-36.9587521,10 174.93206064786347,-36.940741274940756,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9312373,-36.9588759,10 174.92772508811913,-36.94107592614928,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9312017,-36.9589547,10 174.9217130310149,-36.94262102527211,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9311651,-36.9590415,10 174.92422708368412,-36.94190154824481,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9311053,-36.9592244,10 174.92491671982017,-36.94190057424346,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9310835,-36.959316,10 174.92414545879603,-36.94217604903695,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.931068,-36.9594067,10 174.92563639431242,-36.9419201021085,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9310569,-36.959569,10 174.9263888866873,-36.941940929960126,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9310574,-36.9596313,10 174.9248687869127,-36.94230747543091,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9310654,-36.9596841,10 174.9349641319554,-36.94193602995913,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9311023,-36.9597796,10 174.93461455335833,-36.94197962886277,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.931112,-36.9598288,10 174.92270123923979,-36.943118984184494,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9310835,-36.9598838,10 174.92340439545598,-36.94294860316424,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9310476,-36.9599475,10 174.9226368261926,-36.94323768451801,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9309582,-36.960111,10 174.91776068279478,-36.94553033094641,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9309006,-36.9602004,10 174.91502356192746,-36.94745600967787,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9308324,-36.9602879,10 174.91338239591437,-36.948945140315324,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9306626,-36.960451,10 174.9127299160318,-36.949603865008314,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9305665,-36.9605233,10 174.91152395774114,-36.95097168326966,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9304708,-36.9605919,10 174.91102443079777,-36.95157941681424,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9303073,-36.9607424,10 174.91362081340245,-36.948682299070185,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9302515,-36.9608284,10 174.91737292272333,-36.946065115765926,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9302127,-36.9609189,10 174.9203700755346,-36.944720613122165,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9301823,-36.9610847,10 174.91545145869586,-36.947482570868644,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9301694,-36.9611466,10 174.92665708389637,-36.94334663296744,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9301583,-36.9611879,10 174.91893181405476,-36.94558004147183,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9301464,-36.9612225,10 174.93210324633222,-36.94326926897335,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9301341,-36.9612391,10 174.91398212090218,-36.94871901764251,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9300996,-36.9612649,10 174.91065305970793,-36.95225241779924,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9299611,-36.9613076,10 174.90791512890533,-36.96474426753988,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9298545,-36.9613001,10 174.90874957026296,-36.9674620282267,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9296096,-36.9612616,10 174.91015847694572,-36.9702708830403,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9294778,-36.9612382,10 174.90759465737966,-36.965290197511905,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9293412,-36.9612164,10 174.90823629336884,-36.96737832831946,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.929058,-36.9611747,10 174.90854004042123,-36.96850303553384,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.928912,-36.9611498,10 174.9083940471041,-36.96847813556625,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9287612,-36.9611224,10 174.90874924893498,-36.969302418803736,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9286059,-36.9610923,10 174.90793173474808,-36.968132161247645,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9282901,-36.9610299,10 174.90761595162274,-36.968069761325886,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9281344,-36.961,10 174.90761648730853,-36.9683283357612,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9279796,-36.9609712,10 174.9073054674968,-36.96801106139949,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9276725,-36.9609184,10 174.90597892205545,-36.965580793111016,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9275215,-36.9608924,10 174.90700361618684,-36.96822073590124,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9273733,-36.9608661,10 174.90701790231262,-36.968480678371236,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9270861,-36.9608184,10 174.90560845840602,-36.96608551016341,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9269415,-36.9608019,10 174.90570594356672,-36.96666731185075,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.926794,-36.9607961,10 174.94239689324405,-36.973758835253605,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9266473,-36.9608059,10 174.91077013626995,-36.948061510957146,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9263731,-36.9608707,10 174.90392950455148,-36.96023962837278,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9262473,-36.9609139,10 174.9479382303699,-36.956247540498,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.92614,-36.9609671,10 174.90503856421282,-36.95480141458985,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9259895,-36.9610578,10 174.94072557725102,-36.9746580698911,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9259504,-36.9610925,10 174.94824117090542,-36.963286708244944,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9259276,-36.9611185,10 174.93816126771947,-36.97623217554167,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9259097,-36.9611427,10 174.9259097,-36.94312090638743,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9259013,-36.961155,10 174.93574812550935,-36.97735242575125,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9258842,-36.9611793,10 174.90771817560912,-36.95058497256993,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9258513,-36.9612689,10 174.91817205644983,-36.94433370711123,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9258665,-36.9613304,10 174.9243003054619,-36.94335249687735,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9259005,-36.9613998,10 174.928247410118,-36.94347670939081,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9259445,-36.9614827,10 174.92790135298648,-36.94352946976173,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9260392,-36.9616869,10 174.92760540183508,-36.94370899795904,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9260788,-36.961803,10 174.92529522089598,-36.943792184215646,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9261159,-36.9619263,10 174.92376897373336,-36.94400321098322,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9261508,-36.962195,10 174.924193928797,-36.94424177191991,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9261481,-36.9623363,10 174.9188381545303,-36.94529613919497,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9261328,-36.9624823,10 174.91664369354848,-36.946148634949495,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9260648,-36.9627747,10 174.9165756572838,-36.946441035751654,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9260171,-36.9629211,10 174.91724393879645,-36.946331634371326,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9259712,-36.9630703,10 174.9154299508667,-36.947157540786804,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9258436,-36.9635166,10 174.9108187371015,-36.950122857286274,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9257567,-36.9638109,10 174.93194565114453,-36.9464870876286,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9257141,-36.9639549,10 174.91414952221496,-36.94850665530368,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9256733,-36.9640953,10 174.91344399153718,-36.94898033355079,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9256325,-36.9642317,10 174.91150152892308,-36.95022530702414,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9255491,-36.9645017,10 174.91750245402704,-36.947676644801255,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9255086,-36.9646373,10 174.91637584406558,-36.94817323293638,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9254681,-36.9647738,10 174.91492661614868,-36.94886104533372,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9253854,-36.9650541,10 174.914158346721,-36.94944625158347,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9253437,-36.9651994,10 174.91445773449013,-36.9494366988985,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9253027,-36.9653479,10 174.91407560360375,-36.94974005235186,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9252598,-36.9654993,10 174.91403268138447,-36.949891452747856,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9252168,-36.9656484,10 174.9252168,-36.98367012507591,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9251335,-36.9659416,10 174.91708670257853,-36.94911654887655,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9250922,-36.9660851,10 174.91595927122884,-36.94962103694169,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9250516,-36.9662285,10 174.9131525033109,-36.95094457262324,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9249756,-36.9665067,10 174.91620202761132,-36.949917244370184,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9249389,-36.9666415,10 174.91762854317383,-36.94960135154348,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9249023,-36.9667736,10 174.91436054057948,-36.9508608506716,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.924829,-36.9670339,10 174.9132639567491,-36.9515856632701,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9247906,-36.967169,10 174.91289135701348,-36.95188507502944,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.924752,-36.9673077,10 174.91707215029535,-36.950372524320045,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9246387,-36.9677315,10 174.91341125377036,-36.95212365858614,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.924603,-36.9678775,10 174.92577816380023,-36.94988041931078,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9245665,-36.9680215,10 174.92260947976465,-36.95006828957413,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9245265,-36.9681655,10 174.93109157280327,-36.95093101312162,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9244362,-36.9684586,10 174.91155633813963,-36.95369533458802,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9243919,-36.9686076,10 174.9128266188186,-36.95315936734188,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9243469,-36.9687593,10 174.9131193029107,-36.95315146127437,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9242612,-36.9690565,10 174.91138123745955,-36.95429323606298,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.924221,-36.9692018,10 174.91008911073232,-36.95519541862396,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9241795,-36.9693454,10 174.91098038960217,-36.95476475342939,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.924096,-36.9696326,10 174.91219637376122,-36.95434868133251,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9240562,-36.9697791,10 174.91600899889806,-36.95295405973796,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9240159,-36.9699252,10 174.92011664613952,-36.952177160617005,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9239343,-36.9702165,10 174.94113720931657,-36.95863109209208,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9238936,-36.9703605,10 174.9082940457011,-36.95739570746235,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9238528,-36.9705044,10 174.91880149409204,-36.95294442476529,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9238126,-36.9706473,10 174.90878633635342,-36.95725357316299,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9237317,-36.9709353,10 174.92060654356877,-36.95308888187676,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9236908,-36.971082,10 174.9117909482621,-36.95579808504084,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9236499,-36.9712281,10 174.91045046469426,-36.95664745801343,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9235693,-36.9715152,10 174.90913451927076,-36.95770885672247,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9235303,-36.9716552,10 174.90559498891793,-36.96080808497417,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9234905,-36.9717961,10 174.9396447085501,-36.95927603953427,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9234111,-36.9720764,10 174.93754352043283,-36.95807002533329,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9233712,-36.9722181,10 174.9190864699071,-36.95452737374431,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9233312,-36.9723598,10 174.91143114944725,-36.95707588831017,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9232521,-36.9726441,10 174.90400167194576,-36.96336065432396,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.923213,-36.9727881,10 174.9084799046417,-36.95918599735384,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.923175,-36.9729312,10 174.90785927300766,-36.95974993824828,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9231398,-36.9730745,10 174.91329561140262,-36.95687624618062,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9230695,-36.9733656,10 174.90833629338238,-36.95976349866083,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.923036,-36.9735133,10 174.909521072177,-36.9591197208767,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.923002,-36.9736604,10 174.90768612696317,-36.96047913984483,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9229306,-36.9739534,10 174.9094155943997,-36.95955982193382,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9228931,-36.9741009,10 174.9075771387371,-36.9609196408093,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9228554,-36.9742436,10 174.90725505358603,-36.96127881581704,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9227748,-36.9745347,10 174.90635015815528,-36.96224276389772,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9227354,-36.9746799,10 174.90604587239537,-36.96261982685276,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.922696,-36.9748247,10 174.90737989376578,-36.96164344239405,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9226182,-36.9751129,10 174.9081827401694,-36.961306564993514,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9225789,-36.975259,10 174.90784532858368,-36.96165690294596,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9225403,-36.9754041,10 174.90840726458435,-36.9613977331004,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9224632,-36.9756954,10 174.90714691936466,-36.96251414430045,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9224176,-36.9758376,10 174.90681692838126,-36.962872819246705,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9223698,-36.9759807,10 174.9059448475476,-36.96368876683886,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9223234,-36.9761236,10 174.90788774936806,-36.96231726731714,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.92224,-36.976408,10 174.90608481713213,-36.96388794909854,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9222012,-36.9765502,10 174.90964302609987,-36.961608834499316,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9221611,-36.9766928,10 174.9060058569575,-36.96417274968918,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.922073,-36.9769806,10 174.9051231892005,-36.965156067391554,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9220212,-36.9771246,10 174.90456735393138,-36.965781871771576,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9219633,-36.9772655,10 174.90356576773326,-36.96692723317999,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9218451,-36.9775499,10 174.90515494593276,-36.9654898325742,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9217995,-36.9776942,10 174.90537417945086,-36.96540227032416,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9217618,-36.97784,10 174.906734122925,-36.96444628917885,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.921684,-36.9781451,10 174.90499371600154,-36.96608503376077,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9216445,-36.9783012,10 174.91179963856314,-36.96210296039641,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9216047,-36.9784596,10 174.90415054915934,-36.967116874266004,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9215179,-36.9787807,10 174.90027734760875,-36.984646092808404,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9214767,-36.97894,10 174.90377836538607,-36.96784339654197,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9214359,-36.9790941,10 174.9025994174946,-36.96927726990224,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9213936,-36.9792461,10 174.90393926959695,-36.967903375735574,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.921312,-36.9795464,10 174.9046214100849,-36.96748633655437,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9212745,-36.9796945,10 174.939216789289,-36.990538870041014,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9212368,-36.9798393,10 174.94312526894677,-36.98389128342606,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9211603,-36.9801166,10 174.9131120110775,-36.96329158899864,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9211228,-36.980252,10 174.93464401134298,-36.99464398861984,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9210866,-36.9803841,10 174.92226195598073,-36.96238705730632,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.921015,-36.9806478,10 174.94320089281345,-36.977826510258744,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9209795,-36.9807789,10 174.93867826034096,-36.96968229989917,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9209428,-36.9809136,10 174.93956821746355,-36.99098974063129,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9208651,-36.9811957,10 174.9029275507522,-36.970348601976994,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9208263,-36.9813475,10 174.92433954382014,-36.96354759363078,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9207917,-36.9814981,10 174.9269820825074,-36.96417433925228,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.920758,-36.9816508,10 174.94077104148334,-36.973467425135745,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9206869,-36.9819546,10 174.90251593957237,-36.97136030868006,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.920648,-36.9821043,10 174.9024770039865,-36.9715100089403,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9206084,-36.9822537,10 174.9019875681457,-36.972174623190796,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9205254,-36.9825568,10 174.90168806420698,-36.97273997545384,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9204842,-36.9827089,10 174.90143613202585,-36.97315731781535,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9204432,-36.9828573,10 174.90119019999926,-36.973573869753494,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9203525,-36.9831463,10 174.90109942720272,-36.973862870190125,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9203068,-36.9832925,10 174.901258586588,-36.9737409187242,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9202625,-36.9834428,10 174.90081031845835,-36.974430350262026,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9201758,-36.9837381,10 174.90112747553806,-36.97418651941812,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.920133,-36.9838846,10 174.9010846390276,-36.974333019646274,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9200917,-36.9840295,10 174.90104330291564,-36.97447791987191,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9200521,-36.9841749,10 174.90121436542034,-36.974358078048134,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9199741,-36.9844612,10 174.90052165926568,-36.975448751752864,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9199369,-36.9845999,10 174.9004844239642,-36.9755874519559,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9199003,-36.9847377,10 174.89988645020549,-36.97655432921211,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9198258,-36.9850166,10 174.9009878579677,-36.975199779397656,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9197889,-36.9851556,10 174.90053532104886,-36.975872173225824,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9197531,-36.985295,10 174.90135363513843,-36.97495674678029,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9196764,-36.9855877,10 174.89984342229445,-36.977125365386286,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9196346,-36.985743,10 174.89980158199228,-36.97728066559884,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9195929,-36.9859007,10 174.89940374475847,-36.97799878864973,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9195055,-36.9862057,10 174.89882835107855,-36.979162259785106,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9194612,-36.9863531,10 174.8989404167151,-36.97902124032379,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9194185,-36.9865001,10 174.89922918640676,-36.978598189412146,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9193389,-36.9867939,10 174.89914950878787,-36.97889198978586,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9192992,-36.9869398,10 174.89877825916676,-36.97960794101238,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9192597,-36.9870846,10 174.89873872028244,-36.979752741182345,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9192191,-36.9872308,10 174.8985416737033,-36.9801873609373,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9191362,-36.9875231,10 174.89861510252686,-36.98019124169699,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9190944,-36.987673,10 174.8984168540469,-36.98062956143434,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9190535,-36.9878227,10 174.89808203281285,-36.98136244973651,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9189719,-36.9881238,10 174.91353576644448,-37.00561001279571,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9189316,-36.988273,10 174.8994781890097,-36.979260557333106,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9188929,-36.9884181,10 174.9142209699621,-37.0060458480326,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9188171,-36.9886985,10 174.92348904719728,-37.00632624719696,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9187796,-36.9888291,10 174.9176035601936,-37.00682605069746,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9187427,-36.9889514,10 174.89685162006077,-36.99300337652474,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9186611,-36.9891709,10 174.92522797644443,-36.97193647410172,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.91861,-36.9892752,10 174.89615769255914,-36.98990202432349,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9185329,-36.9893727,10 174.89816990672742,-36.99698723991681,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.918271,-36.9894328,10 174.9026622568502,-37.00239547151091,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9181219,-36.9894185,10 174.90970420271938,-37.006127588890145,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9179728,-36.9893939,10 174.91177896951484,-37.00671726400446,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9178226,-36.9893672,10 174.91125274295018,-37.006601211742655,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9175208,-36.9893142,10 174.91673656926324,-37.00732487218196,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9173736,-36.9892923,10 174.92993878126612,-37.004232266515864,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9172304,-36.9892716,10 174.93255468801723,-37.00245081913837,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9169497,-36.9892345,10 174.93731265642333,-36.996849040103264,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9168092,-36.989216,10 174.924494657079,-37.00615056747304,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9166689,-36.9891967,10 174.91823640292057,-37.00717444329397,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9163959,-36.98916,10 174.93776367885337,-36.99472708005686,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9162672,-36.9891447,10 174.91121466256868,-36.97158477995431,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9160285,-36.9891342,10 174.91097363990764,-37.00669385286814,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9159161,-36.9891416,10 174.90117460440266,-37.00274180446867,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9158213,-36.9891791,10 174.93583631300112,-36.980995735077315,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9156855,-36.9892684,10 174.8937095476641,-36.993013282851834,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9156542,-36.9893332,10 174.89482240842588,-36.99608240872936,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.91563,-36.9893979,10 174.92404769500925,-37.00610698894851,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9156042,-36.9894867,10 174.8939051604823,-36.98482036095458,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9156166,-36.9895126,10 174.9128780568131,-37.00739989040959,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9156393,-36.989521,10 174.91915455726084,-37.007320724275665,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9156485,-36.9895402,10 174.9024459028939,-36.97495960260473,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9156757,-36.9895873,10 174.90247309475785,-36.975006702719426,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9157549,-36.9896515,10 174.91262751763068,-37.00749772562808,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9158311,-36.9897086,10 174.90459583627444,-37.00531527988367,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9160202,-36.9898587,10 174.91250656502916,-36.97205881919357,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9161218,-36.9899503,10 174.91533793245094,-36.97193956979821,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9162266,-36.9900559,10 174.90965964752334,-36.97282147667122,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9164387,-36.990285,10 174.9117688115264,-36.972657021268034,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9165409,-36.9904009,10 174.9126406018667,-36.97265292192268,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9166464,-36.9905207,10 174.90048823427668,-36.97800067836848,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9168614,-36.9907614,10 174.90043327130724,-36.97846949690511,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9169699,-36.9908862,10 174.8992687990076,-36.97978961835265,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9170696,-36.9910138,10 174.90037650584844,-36.97895375941701,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9172353,-36.9912862,10 174.89721973505803,-36.983102837859995,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9173007,-36.9914241,10 174.89532628333532,-36.98767514819329,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9173538,-36.9915618,10 174.90261183710874,-37.00516199882983,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9174004,-36.9917009,10 174.89899939277154,-36.98136265763128,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9174796,-36.9919817,10 174.89509802780753,-36.993550282118036,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9175026,-36.9921343,10 174.89955738788157,-37.00297864664928,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9175091,-36.9922861,10 174.89749327312072,-36.9841027391805,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9174896,-36.9925856,10 174.89502614751615,-36.99289799610272,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9174845,-36.9927338,10 174.89588940568962,-36.98776438810704,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9174945,-36.9928835,10 174.90080099741087,-36.98082346314489,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9175739,-36.9931786,10 174.89917253691206,-36.98284036013447,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9176333,-36.9933197,10 174.90017575533216,-36.98197700203393,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9176982,-36.9934595,10 174.89907463758485,-36.983380441667826,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9178221,-36.99374,10 174.89877128227528,-36.98418843499482,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9178865,-36.9938845,10 174.89805136874233,-36.98542217674307,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9179521,-36.9940275,10 174.8981125366799,-37.00248649589183,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9180976,-36.9943055,10 174.89969596551467,-36.98396726204343,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9181901,-36.99443,10 174.9020311076396,-36.98190998647713,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9183071,-36.9945401,10 174.89990540901275,-36.98420186244084,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.918441,-36.9946376,10 174.89619153498293,-36.99714364524728,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9187191,-36.9948307,10 174.911777835931,-36.977690851542626,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9188653,-36.9949306,10 174.90326073106888,-36.98196586033151,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.919012,-36.9950261,10 174.9120707181833,-36.977886252106686,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.919316,-36.9952048,10 174.9112661223384,-36.97837983171174,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9194759,-36.9952691,10 174.91328440218567,-36.977945379452045,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9196396,-36.9953334,10 174.91651344614874,-36.97748705535402,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9199657,-36.9954689,10 174.91377418599836,-36.97814518003533,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.920123,-36.9955375,10 174.91393148044048,-36.97821378023559,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9202686,-36.9956014,10 174.91370117102173,-36.97836699277245,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9205397,-36.9957136,10 174.91434816617314,-36.97838988074969,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9206792,-36.9957595,10 174.91716529374833,-36.97795963691751,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.920824,-36.9957908,10 174.92160792745116,-36.97778008755942,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9209745,-36.9958007,10 174.9221500930411,-36.977803704149096,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9212838,-36.9957662,10 174.92709754831606,-36.9783584443873,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9214384,-36.9957423,10 174.92725214649786,-36.97833454431717,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9217453,-36.9957035,10 174.92755904354615,-36.97829574420332,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9218997,-36.9956953,10 174.92656991905898,-36.97806733735385,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9220483,-36.9957037,10 174.9236151986966,-36.97772590119232,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9221893,-36.9957294,10 174.92179727692456,-36.977710455766356,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9224509,-36.9957997,10 174.91932472707416,-36.9779533567585,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9225833,-36.9958279,10 174.9210163987569,-36.97785010156931,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9227192,-36.9958546,10 174.91959302482837,-36.978008256923864,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9228603,-36.9958898,10 174.91857424306826,-36.978199144381364,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9231608,-36.9959723,10 174.92042330766125,-36.97808491191957,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9233188,-36.9960154,10 174.91941821533888,-36.97826743873506,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9236376,-36.9960996,10 174.92090010310125,-36.97821221230392,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9237981,-36.9961404,10 174.92145012342542,-36.978217414483055,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.923957,-36.9961817,10 174.9200564068508,-36.97843373923306,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9241172,-36.9962236,10 174.92060327240864,-36.97842373831155,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9244319,-36.9963079,10 174.92130570628512,-36.97846155828918,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9245869,-36.9963501,10 174.92068629825545,-36.97860213973733,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9247394,-36.9963906,10 174.9212254647297,-36.97859073881317,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9250512,-36.9964739,10 174.92115059193648,-36.97872594010807,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9252041,-36.9965153,10 174.92053383082887,-36.97888733979193,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9253602,-36.9965569,10 174.92030717254505,-36.97899700190274,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9256673,-36.996637,10 174.9248833638685,-36.97862629013282,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9258214,-36.996676,10 174.92076836466984,-36.97911610225542,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9262724,-36.9967978,10 174.92314618624417,-36.97895145976477,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9265566,-36.9968744,10 174.9238190753465,-36.97898701464326,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9266982,-36.9969046,10 174.92513127668053,-36.978926804837414,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9268432,-36.9969305,10 174.9280188104211,-36.97893350758224,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9269914,-36.9969338,10 174.92972892678134,-36.9790464148226,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9272841,-36.9969106,10 174.9319543933296,-36.979282640967284,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9274278,-36.9968929,10 174.92938555935336,-36.978939777069236,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9275712,-36.9968747,10 174.93300546765553,-36.97938821255232,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9278673,-36.9968458,10 174.9313812562014,-36.9790459401805,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9280125,-36.9968336,10 174.93229860986557,-36.979142947198035,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9281506,-36.996821,10 174.93243670915888,-36.97913034716043,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.928408,-36.9967933,10 174.93497553141034,-36.97955889623322,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9285192,-36.9967816,10 174.93583243913213,-36.97974153800842,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9286118,-36.9967706,10 174.93592503807938,-36.979730537976856,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9286754,-36.9967621,10 174.93635820883804,-36.97982700827125,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9287231,-36.9967544,10 174.9364059080639,-36.979819308249304,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9287231,-36.9967544,10 174.93377614051423,-36.97919450248758,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9287186,-36.9967502,10 174.9341528588021,-36.979263712185286,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9287195,-36.9967489,10 174.93453332307715,-36.97934114727081,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9287797,-36.9967498,10 174.9322936517871,-36.97894993989212,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.928838,-36.9967481,10 174.928838,-36.978726414719134,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9289435,-36.9967432,10 174.93206971152222,-36.97889685960031,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9291655,-36.9967252,10 174.93610693614917,-36.9795853570117,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9292889,-36.9967155,10 174.93357500324169,-36.97902484684558,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9294219,-36.9967035,10 174.93254810989814,-36.97885715948075,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9297044,-36.9966775,10 174.9355182176451,-36.979269747061295,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9298461,-36.9966664,10 174.93641362050425,-36.97943199586475,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9299913,-36.9966556,10 174.9361829101485,-36.97933188349975,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9302811,-36.9966361,10 174.93609491449544,-36.97922834693983,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9304333,-36.9966243,10 174.93200021757218,-36.978646503986624,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9305848,-36.9966105,10 174.9382675935965,-36.9796754078391,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9308779,-36.9965736,10 174.94072511503433,-36.98037541010023,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9310184,-36.9965388,10 174.94292221497227,-36.98125495018144,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9311523,-36.9964852,10 174.94784658949024,-36.98442517032627,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9312815,-36.9964172,10 174.94968364309824,-36.98607896562069,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9315363,-36.9962683,10 174.95155317019905,-36.98808494443966,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9316642,-36.9961936,10 174.95131277077598,-36.98745489337931,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9317984,-36.9961224,10 174.95144695246375,-36.98738369327844,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9320837,-36.9959936,10 174.94877788207697,-36.98393356934606,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9322253,-36.9959358,10 174.94943399844016,-36.984350441238135,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9323627,-36.9958852,10 174.95483045240388,-36.9958830737054,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.932653,-36.9958222,10 174.9452143404264,-36.980880882653125,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9328028,-36.9958179,10 174.94632167177085,-36.9814243744592,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9329483,-36.9958275,10 174.93876205297948,-36.97841974456716,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9332354,-36.9958608,10 174.93866959555655,-36.97837430956314,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.933373,-36.9958788,10 174.93842598261799,-36.97831889989474,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9335021,-36.995896,10 174.9408152543806,-36.978855935467465,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9337402,-36.9959298,10 174.94142292516182,-36.978994705898685,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9339572,-36.9959647,10 174.94089856706992,-36.978824854816274,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9340705,-36.9959794,10 174.94563992253953,-36.98053123817373,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9341887,-36.9959931,10 174.94075616264038,-36.978758693909775,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9344248,-36.9960166,10 174.94023856736544,-36.97860884512205,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9345445,-36.996022,10 174.94543485483425,-36.98025938036691,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9346676,-36.9960266,10 174.94623702968576,-36.98057843829589,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9349428,-36.9960327,10 174.94846170977343,-36.981639174975285,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9350941,-36.9960365,10 174.94892408576922,-36.98183441535785,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9352443,-36.9960408,10 174.9464759042542,-36.98043303263979,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9355394,-36.9960485,10 174.94936938794118,-36.98184641538629,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9356909,-36.9960522,10 174.9498277535987,-36.98204588130032,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9358409,-36.9960548,10 174.9517253853227,-36.98331048544245,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9359943,-36.9960569,10 174.95013115446827,-36.982050581311285,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9362989,-36.9960612,10 174.95073831643273,-36.98225491315902,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.936444,-36.9960623,10 174.95414630012877,-36.984965727803626,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9365758,-36.9960638,10 174.95300506869785,-36.98377190769206,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9368175,-36.9960843,10 174.95095435953758,-36.982077981375255,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9369242,-36.9961199,10 174.9478145687865,-36.980357280625704,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9370178,-36.9961731,10 174.94091839271027,-36.9784251392073,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9371805,-36.9963093,10 174.9422335110831,-36.978749401169544,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9372604,-36.9963766,10 174.94077433462655,-36.978576738771125,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9373394,-36.9964326,10 174.945022175711,-36.97949750733196,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.937501,-36.9965007,10 174.95070479967086,-36.98192011955615,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9375771,-36.9965202,10 174.95109609602383,-36.982126676146535,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9376458,-36.9965333,10 174.9562701116848,-36.9864542467365,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9376876,-36.9965406,10 174.95464174912894,-36.98471610558507,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9377239,-36.996564,10 174.94792199299962,-36.98050612489112,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9377562,-36.9965902,10 174.94864663581228,-36.98082758186896,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9377771,-36.9966043,10 174.9503385689948,-36.9816629846075,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.937867,-36.9966424,10 174.95289837428993,-36.98324873105116,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9379244,-36.9966737,10 174.94881484771264,-36.98091108208969,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9379631,-36.9966984,10 174.95240263684798,-36.98289211462427,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9380765,-36.9967662,10 174.9475698620654,-36.980432629019276,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9381382,-36.9968038,10 174.95037274129723,-36.98168891627189,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9382028,-36.9968447,10 174.954632236615,-36.98455280928073,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9383163,-36.9969176,10 174.94488384209308,-36.97968319659413,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.938374,-36.9969535,10 174.94891992147723,-36.9810408312408,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.938419,-36.996982,10 174.95130366822323,-36.98221880496179,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9385057,-36.9970301,10 174.9529452995327,-36.98322381538701,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9385404,-36.9970428,10 174.9557493477789,-36.985457443353724,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9385667,-36.9970558,10 174.95650797230883,-36.98620873024586,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9385853,-36.9970666,10 174.95390586364263,-36.983885391097765,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9386048,-36.9970814,10 174.94949530581835,-36.981318783167495,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9386127,-36.9970869,10 174.95305231026686,-36.98328061551763,10 </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <LineString>
+        <extrude>1</extrude>
+        <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        <coordinates>174.9386175,-36.9970895,10 174.95150218635044,-36.982326305227055,10 </coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>
